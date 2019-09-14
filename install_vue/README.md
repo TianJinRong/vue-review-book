@@ -12,4 +12,7 @@ vue ui
 # axios
 # vuex
 # vue-router
+
+# run vue app by vue ui
+# run vue unit test by vue ui
 ```
