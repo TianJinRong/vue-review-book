@@ -1,0 +1,1 @@
+export const TEST_MUTATION = 'TEST_MUTATION'; // mutaion type must be upper case
